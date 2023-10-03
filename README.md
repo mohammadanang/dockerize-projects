@@ -1,6 +1,6 @@
 # Create a Dockerize Project
 
-Create a project that have been dockerized. All programming language are welcome. Read the rules below:
+Create a project that have been dockerized. All programming language are welcome. See the example project inside **src** folder named `express-basic`.
 
 ## Contribution Rules
 
